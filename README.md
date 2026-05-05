@@ -29,6 +29,8 @@ This isn't a typical tutorial repository. It follows a first principles thinking
 - Controllers vs Services vs Repositories, Middlewares, and System Design Basics.
 
 ## Notes Structure
+
+```text
 Notes/
 ├── 01-What is Backend.pdf
 ├── 02-Understanding HTTP.pdf
@@ -44,7 +46,7 @@ Notes/
 ├── 12-Validations and transformations.pdf
 ├── 13-controllers, services, repositories, middlewares.pdf
 └── 14-Rest API (Not Complete).pdf
-
+```
 ## How to use this repo
 Don't just rush through the PDFs. Take your time to understand the concepts, rebuild them using code, and add your own experiments. Use these notes as a baseline.
 
@@ -53,5 +55,3 @@ Right now, this is mostly theoretical notes. The plan is to eventually evolve th
 
 ## Important Note
 These notes represent my personal understanding as I progress. They might have typos and will continuously evolve. They aren't meant to replace the original course material.
-
-If you find this helpful, feel free to star the repo or open a PR if you have suggestions!
