@@ -2,91 +2,33 @@
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-Feyala&label=Repo%20Views&color=0e75b6&style=flat" />
 </p>
 
-# 🚀 Backend from First Principles — Mahmoud Feyala Edition
+# Backend from First Principles - Mahmoud Feyala Edition
 
-Custom structured backend notes inspired by the legendary "Backend from First Principles" series.
+This repository contains my personal backend learning notes, heavily inspired by and based on the [Backend from First Principles](https://www.youtube.com/@sriniously) series by Srini. 
 
-These notes are built while studying backend systems deeply — focusing on understanding *why things work*, not just *how to use them*.
+A huge credit goes to him for the curriculum structure and core concepts. If you want to understand the "why" behind backend engineering, I highly recommend checking out his channel.
 
----
+## Quick Overview
+- Focus: Backend fundamentals from scratch
+- Style: First principles thinking
+- Format: PDF notes
+- Future: Node.js + real backend projects
 
-## ⚡ Quick Overview
+## What is this and why does it exist?
+Most backend resources teach you how to use a framework first. This repo does the exact opposite. 
 
-- 📌 Focus: Backend fundamentals from scratch
-- 🧠 Style: First principles thinking
-- 📂 Format: PDF notes
-- 🚀 Future: Node.js + real backend projects
+It documents my journey of understanding how the web actually works under the hood, how backend systems are designed, and why certain architectures exist. The main goal here is to develop engineering intuition, not just memorize syntax and tools.
 
----
+## Philosophy
+This isn't a typical tutorial repository. It follows a first principles thinking approach. That means breaking everything down to the fundamentals, understanding the strict reasoning behind every concept, rebuilding mental models, and completely avoiding framework "magic".
 
-## 📌 What Is This?
+## Topics Covered
+- HTTP Protocol, Messages, Headers, Methods, Status Codes, Caching, and Content Negotiation.
+- Routing, Serialization/Deserialization, CRUD Operations, and REST API Design.
+- Authentication, Authorization, Validation, Transformation, and Request Lifecycle.
+- Controllers vs Services vs Repositories, Middlewares, and System Design Basics.
 
-This repository contains my personal backend learning journey based on the **Backend from First Principles** concept.
-
-It focuses on understanding:
-
-- How the web actually works under the hood
-- How backend systems are designed
-- Why architectures exist the way they do
-- Not just frameworks — but core principles
-
----
-
-## 💡 Why This Repository Exists
-
-Most backend learning resources teach tools first.
-
-This repo does the opposite:
-👉 It starts from fundamentals and builds upward.
-
-The goal is to develop **engineering intuition**, not just knowledge.
-
----
-
-## 🧠 Philosophy
-
-This is not a tutorial repository.
-
-It follows a **first principles thinking approach**, meaning:
-
-- Break everything down to fundamentals
-- Understand the reasoning behind every concept
-- Rebuild mental models from scratch
-- Avoid memorization of frameworks
-
----
-
-## 📚 Topics Covered
-
-### 🌐 HTTP & Web Fundamentals
-- HTTP Protocol
-- HTTP Messages
-- Headers & Methods
-- Status Codes
-- Caching
-- Content Negotiation
-
-### ⚙️ Backend Core Concepts
-- Routing
-- Serialization / Deserialization
-- CRUD Operations
-- REST API Design
-
-### 🔐 Security & Logic Layer
-- Authentication & Authorization
-- Validation & Transformation
-- Request Lifecycle
-
-### 🏗️ Architecture
-- Controllers vs Services vs Repositories
-- Middlewares
-- Backend System Design Basics
-
----
-
-## 📂 Notes Structure
-
-
+## Notes Structure
 Notes/
 ├── 01-What is Backend.pdf
 ├── 02-Understanding HTTP.pdf
@@ -103,71 +45,13 @@ Notes/
 ├── 13-controllers, services, repositories, middlewares.pdf
 └── 14-Rest API (Not Complete).pdf
 
+## How to use this repo
+Don't just rush through the PDFs. Take your time to understand the concepts, rebuild them using code, and add your own experiments. Use these notes as a baseline.
 
----
+## Future Work
+Right now, this is mostly theoretical notes. The plan is to eventually evolve this into practical implementations, including building simple HTTP servers, standardized REST APIs, and authentication systems using Node.js.
 
-## 🧭 How To Use This Repo
+## Important Note
+These notes represent my personal understanding as I progress. They might have typos and will continuously evolve. They aren't meant to replace the original course material.
 
-- Don’t rush through PDFs
-- Focus on understanding *why*, not *what*
-- Rebuild concepts using code
-- Add your own notes and experiments
-
----
-
-## 🛠️ Future Work
-
-This repository will evolve into practical implementation:
-
-- Node.js backend projects
-- Simple HTTP servers
-- REST API implementation
-- Authentication system
-- Real backend architecture examples
-
----
-
-## 🚀 Learning Roadmap
-
-- [x] HTTP Fundamentals
-- [x] Backend Basics
-- [x] REST APIs
-- [ ] Node.js Implementation
-- [ ] Database Integration
-- [ ] Authentication System
-- [ ] Full Backend Project
-- [ ] System Design Expansion
-
----
-
-## ⚡ Important Note
-
-These notes are:
-- Personal understanding
-- Continuously evolving
-- Not a replacement for official resources
-
----
-
-## 🧠 Goal
-
-To build strong backend intuition by understanding systems from first principles — not by memorizing tools.
-
----
-
-## 📌 Inspiration
-
-Inspired by:
-- Backend from First Principles (Srini)
-- Real-world system design thinking
-- Backend engineering principles used in production systems
-
----
-
-## ⭐ Support
-
-If this helps:
-- Star the repo ⭐
-- Share it with others
-- Improve it with PRs or suggestions
-```
+If you find this helpful, feel free to star the repo or open a PR if you have suggestions!
