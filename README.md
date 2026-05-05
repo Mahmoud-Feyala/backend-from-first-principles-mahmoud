@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-Feyala&label=Repo%20Views&color=0e75b6&style=flat" />
 </p>
 
-# Backend from First Principles - Mahmoud Feyala Edition
+# Backend from First Principles - My Notes 
 
 This repository contains my personal backend learning notes, heavily inspired by and based on the [Backend from First Principles](https://www.youtube.com/@sriniously) series by Srini. 
 
