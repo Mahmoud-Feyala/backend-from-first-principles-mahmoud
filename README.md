@@ -12,7 +12,6 @@ A huge credit goes to him for the curriculum structure and core concepts. If you
 - Focus: Backend fundamentals from scratch
 - Style: First principles thinking
 - Format: PDF notes
-- Future: Node.js + real backend projects
 
 ## What is this and why does it exist?
 Most backend resources teach you how to use a framework first. This repo does the exact opposite. 
